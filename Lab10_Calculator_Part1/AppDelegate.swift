@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Lab10_Calculator_Part1
+//  Lab10_Generics_Calculator
 //
-//  Created by Dimitri SMITH on 19/10/2021.
+//  Created by Dimitri SMITH on 18/10/2021.
 //
 
 import UIKit
