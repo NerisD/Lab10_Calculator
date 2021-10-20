@@ -74,19 +74,19 @@ class ViewController: UIViewController {
         
         if mathOperation == "/" {
             screenLabel.text = String (division(number1: firstNumber, number2: secondNumber))
-            resetLabel = true
+            //resetLabel = true
         }
         if mathOperation == "*"{
             screenLabel.text = String(multiplyBy(number1: firstNumber, number2: secondNumber))
-            resetLabel = true
+            //resetLabel = true
         }
         if mathOperation == "-" {
             screenLabel.text = String(substraction(number1: firstNumber, number2: secondNumber))
-            resetLabel = true
+            //resetLabel = true
         }
         if mathOperation == "+" {
             screenLabel.text = String(addition(number1: firstNumber, number2: secondNumber))
-            resetLabel = true
+            //resetLabel = true
         }
     }
     @IBAction func dotButton(_ sender: UIButton) {
